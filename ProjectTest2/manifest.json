@@ -1,5 +1,5 @@
 {
-    "name" : "ProjectTest2",
+    "name" : "A-curve",
     "host" : {
       "app" : "XD",
       "minVersion" : "21.0"
@@ -7,8 +7,8 @@
     "id" : "33d5192c",
     "icons" : [ {
       "path" : "images/icon@1x.png",
-      "width" : 35,
-      "height" : 34
+      "width" : 24,
+      "height" : 24
     } ],
     "uiEntryPoints": [
       {
