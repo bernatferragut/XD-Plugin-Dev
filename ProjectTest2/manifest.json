@@ -7,16 +7,15 @@
     "id" : "33d5192c",
     "icons" : [ {
       "path" : "images/icon@1x.png",
-      "width" : 24,
-      "height" : 24
-    }, {
-      "path" : "images/icon@2x.png",
-      "width" : 48,
-      "height" : 48
+      "width" : 35,
+      "height" : 34
     } ],
-    "uiEntryPoints" : [ {
-      "type" : "menu",
-      "commandId" : "createRectangle"
-    } ],
+    "uiEntryPoints": [
+      {
+          "type": "menu",
+          "label": "Create lines",
+          "commandId": "createLinesCommand"
+      }
+  ],
     "version" : "0.0.1"
   }
